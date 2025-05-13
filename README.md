@@ -3,7 +3,7 @@
 ## Project Overview
 This project demonstrates an IoT-based vehicle tracking and monitoring system using GPS and GSM technologies. The system allows real-time vehicle tracking, providing the vehicle’s location via GPS coordinates. It also monitors vehicle health parameters such as speed, fuel level, and temperature.
 
-For detailed information, refer to the [IOT_PROJECT.pdf](docs/IOT_PROJECT.pdf.pdf) file.
+For detailed information, refer to the IOT_PROJECT.pdf.pdf file.
 
 ## Objective
 - Track the location of the vehicle in real-time using GPS.
