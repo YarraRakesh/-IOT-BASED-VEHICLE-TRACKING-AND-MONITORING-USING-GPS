@@ -53,7 +53,7 @@ For detailed information, refer to the [IOT_PROJECT.pdf](IOT_PROJECT.pdf.pdf) fi
 5. Set up an IoT platform account (e.g., ThingSpeak, Blynk) and configure it to receive and display data.
 6. Power up the system and monitor the vehicle's location and health parameters.
 
-For more detailed instructions, refer to the [IOT_PROJECT.pdf](docs/IOT_PROJECT.pdf.pdf) file.
+For more detailed instructions, refer to the [IOT_PROJECT.pdf](IOT_PROJECT.pdf.pdf) file.
 
 ## Working
 - The system continuously tracks the vehicle’s GPS location and sends updates to the IoT platform.
@@ -68,7 +68,7 @@ For more detailed instructions, refer to the [IOT_PROJECT.pdf](docs/IOT_PROJECT.
 - **Advanced Geofencing**: Set up dynamic geofencing based on the vehicle's movement and real-time location.
 
 ## Conclusion
-This IoT-based vehicle tracking and monitoring system offers a comprehensive solution for vehicle management, providing real-time data and alerts for better decision-making and vehicle security. For additional details, please refer to the [IOT_PROJECT.pdf](docs/IOT_PROJECT.pdf.pdf) file.
+This IoT-based vehicle tracking and monitoring system offers a comprehensive solution for vehicle management, providing real-time data and alerts for better decision-making and vehicle security. For additional details, please refer to the [IOT_PROJECT.pdf](IOT_PROJECT.pdf.pdf) file.
 
 Advanced Geofencing: Set up dynamic geofencing based on the vehicle's movement and real-time location.
 
